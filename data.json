@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "name": "Cheese",
+            "price": "10,00lv./kg",
+            "promoPrice": "7,50lv./kg"
+        },
+        {
+            "name": "Sausage",
+            "price": "6,00lv./kg",
+            "promoPrice": "4,00lv./kg"
+        },
+        {
+            "name": "Prawns",
+            "price": "12,00lv./kg",
+            "promoPrice": "8,60lv./kg"
+        }
+    ]
+}
