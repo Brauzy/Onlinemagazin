@@ -1,1 +1,2 @@
-Калоян Иванов - Card.js
+Калоян Иванов - Card.js, App.js;
+Християн - data.json, List.js
