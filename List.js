@@ -16,7 +16,7 @@ class List extends Component{
     render() {
         return(
             <FlatList
-                data = {this.state.items }
+                data = {this.state.items}
                 renderItem = { ({item}) => <Card item = {item} />}
             ></FlatList>
         );
